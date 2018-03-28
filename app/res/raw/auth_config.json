@@ -1,8 +1,8 @@
 {
-  "client_id": "",
-  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
-  "authorization_scope": "openid email profile",
-  "discovery_uri": "",
+  "client_id": "@!087E.9463.6744.8C15!0001!F42C.5BC5!0008!CEBA.E8A8.A8B5.0DA5",
+  "redirect_uri": "appscheme://uma.authentrend.com",
+  "authorization_scope": "openid",
+  "discovery_uri": "https://uma.authentrend.com/.well-known/openid-configuration",
   "authorization_endpoint_uri": "",
   "token_endpoint_uri": "",
   "registration_endpoint_uri": "",
